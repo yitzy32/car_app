@@ -1,0 +1,7 @@
+@cars.map do |car|
+  {
+    id: car.id,
+    color: car.color,
+    year: car.year,
+  }
+end

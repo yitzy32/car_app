@@ -1,0 +1,5 @@
+{
+  id: @car.id,
+  color: @car.color,
+  year: @car.year,
+}
